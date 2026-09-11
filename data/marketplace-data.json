@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": "user_admin",
+      "username": "RAY_MasterAdmin",
+      "email": "admin@rayshop.gg",
+      "phone": "+234 800 729 7467",
+      "avatar": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2024-01-10T10:00:00.000Z",
+      "isVerifiedSeller": true,
+      "verificationStatus": "approved",
+      "role": "admin",
+      "totalSales": 312,
+      "rating": 5,
+      "bio": "Official RAY SHOP Marketplace Safety & Escrow Master Administrator",
+      "freeFireUid": "1000000001",
+      "passwordHash": "91ef0b3f6bee182f5319ac7e2bff3038:d83b28887522f864466e29f0338b7556d560b889dfef72944eeaaaa491c803c0391928170c237f47c7491bd42b40570a674f2710240d08c0ef5d4391dde96595"
+    },
+    {
+      "id": "user_seller_sotter",
+      "username": "Sotter_Sales",
+      "email": "sottersales@rayshop.gg",
+      "phone": "+234 706 379 7709",
+      "avatar": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=300&auto=format&fit=crop&q=80",
+      "createdAt": "2024-02-14T12:00:00.000Z",
+      "isVerifiedSeller": true,
+      "verificationStatus": "approved",
+      "role": "seller",
+      "totalSales": 142,
+      "rating": 4.98,
+      "bio": "Verified Elite Free Fire Merchant. 100% Clean Google & Facebook binds. Instant Escrow Handover & WhatsApp support.",
+      "freeFireUid": "7031684177",
+      "passwordHash": "91ef0b3f6bee182f5319ac7e2bff3038:d83b28887522f864466e29f0338b7556d560b889dfef72944eeaaaa491c803c0391928170c237f47c7491bd42b40570a674f2710240d08c0ef5d4391dde96595"
+    }
+  ],
+  "listings": [
+    {
+      "id": "list_ff_linx_40k",
+      "sellerId": "user_seller_sotter",
+      "sellerUsername": "Sotter_Sales",
+      "sellerAvatar": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=300&auto=format&fit=crop&q=80",
+      "sellerIsVerified": true,
+      "sellerRating": 4.98,
+      "sellerSales": 142,
+      "title": "Free Fire MAX Lv.62 ❝Linx | Evo MP40 Lv.6 + AWM Lv.3 + M1014 Lv.3 | Bunny Captain & Byte Mounting Cyber Horse",
+      "price": 40000,
+      "description": "Official Free Fire MAX Account ❝Linx (UID: 7031684177). Level 62 with 3,177 Likes. High-spec competitive account featuring 3 Evo Weapons: Evo MP40 Predatory Cobra (Level 6), Evo AWM (Level 3), and Evo M1014 Green Flame Draco (Level 3). 284 Total Weapons in Gallery (2 Artifact, 45 Mythic, 96 Epic). Includes ultra-rare Vault Bunny Captain Top, Demon Samurai, and the legendary Byte Mounting Emote (Character mounts glowing blue energy cyber horse with glowing sword). Verified 100% clean Google Bind. Protected by RAY Escrow. Instant transfer upon payment confirmation.",
+      "images": [
+        "/assets/linx_account.jpg",
+        "/7914C68A-0667-452A-9E48-AA252807DC32.jpeg",
+        "/linx_account.jpg"
+      ],
+      "level": 62,
+      "rank": "Heroic",
+      "region": "Nigeria",
+      "evoGuns": [
+        "Evo MP40 Predatory Cobra (Lv.6)",
+        "Evo AWM (Lv.3)",
+        "Evo M1014 Green Flame Draco (Lv.3)"
+      ],
+      "exclusiveItems": [
+        "Bunny Captain (Top) Legendary Outfit",
+        "Byte Mounting Emote (Cyber Horse + Sword)",
+        "284 Weapons Collection (2 Artifact, 45 Mythic, 96 Epic)",
+        "Clash Squad Heroic 37 Stars Emblem & Rusher",
+        "Pink Kitty Pet (Lv.1270) with Crown",
+        "10,718 Gold + 226 Diamonds"
+      ],
+      "bindType": "Google",
+      "badgesCount": 284,
+      "likesCount": 3177,
+      "status": "active",
+      "featured": true,
+      "createdAt": "2024-05-25T12:00:00.000Z",
+      "viewsCount": 1
+    }
+  ],
+  "orders": [],
+  "chats": [],
+  "messages": [],
+  "verificationRequests": [],
+  "reports": []
+}

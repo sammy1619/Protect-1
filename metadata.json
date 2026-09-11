@@ -1,0 +1,6 @@
+{
+  "name": "RAY SHOP - Free Fire Marketplace",
+  "description": "Mobile-first gaming marketplace for buying and selling Free Fire accounts with real-time chat, seller verification, and secure transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
